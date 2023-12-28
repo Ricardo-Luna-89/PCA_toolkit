@@ -5,7 +5,7 @@ Created on Thu Oct 12 10:06:48 2023
 @author: rluna
 """
 import pandas as pd
-from pca_tool import PCA_plot
+from PCA_toolkit.pca_tool import PCA_plot
 # %% Example
 file = 'Analisis_diablo.xlsx'
 sheet = 'diablo'
